@@ -12,7 +12,7 @@ This microservice fetches item data for requested items from the PokeAPI service
 ## Programmatic Usage
 
 ### Start Server
-in python terminal simply run `python3 item_fetcher.py`
+in python terminal simply run `python3 item_service.py`
 
 ### Bind Client to server, make requests and receive response
 
